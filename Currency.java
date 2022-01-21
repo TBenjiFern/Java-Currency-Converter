@@ -19,6 +19,8 @@ public class Currency {
 
         // "Put" (Insert) each conversion value with the rate as the value and the "conversion to" as key
 
+        // All conversion rates taken as of January 20th, 2022
+        
         // USD to many
         usdConversion.put("EUR", 0.8763f);
         usdConversion.put("GBP", 0.7327f);
